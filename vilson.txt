@@ -1,0 +1,7 @@
+Ficha do Cliente
+
+Código: 6
+Nome: vilson
+Telefone: 51999999999
+Cidade: VIAMAO
+UF: RS

@@ -1,0 +1,7 @@
+Ficha do Cliente
+
+Código: 1
+Nome: lucas
+Telefone: 51999999999
+Cidade: VIAMAO
+UF: RS

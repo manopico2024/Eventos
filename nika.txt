@@ -1,0 +1,7 @@
+Ficha do Cliente
+
+Código: 5
+Nome: nika
+Telefone: 51999999999
+Cidade: VIAMAO
+UF: RS

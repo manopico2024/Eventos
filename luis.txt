@@ -1,0 +1,7 @@
+Ficha do Cliente
+
+Código: 
+Nome: 
+Telefone: 
+Cidade: 
+UF: 
